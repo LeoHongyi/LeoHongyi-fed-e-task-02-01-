@@ -1,0 +1,13 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "hongyiliu",
+      "authorEmail": "wenhualiu.liu@gmail.com",
+      "authorUrl": ""
+    }
+  },
+  "generator-mocha": {
+    "ui": "bdd",
+    "rjs": false
+  }
+}
